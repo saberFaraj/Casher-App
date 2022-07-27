@@ -1,0 +1,8 @@
+C:\Users\Dar Elcomputer\source\repos\cpPoS\cpPoS\x64\Debug\cpPoS.vcxproj.AssemblyReference.cache
+C:\Users\Dar Elcomputer\source\repos\cpPoS\cpPoS\x64\Debug\cpPoS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dar Elcomputer\source\repos\cpPoS\cpPoS\x64\Debug\cpPoS.MyForm.resources
+C:\Users\Dar Elcomputer\source\repos\cpPoS\cpPoS\x64\Debug\cpPoS.vcxproj.GenerateResource.cache
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\x64\Debug\cpPoS.vcxproj.AssemblyReference.cache
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\x64\Debug\cpPoS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\x64\Debug\cpPoS.MyForm.resources
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\x64\Debug\cpPoS.vcxproj.GenerateResource.cache

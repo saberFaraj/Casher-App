@@ -1,0 +1,62 @@
+﻿  64 bit Processing .\Source.idl
+  Source.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\objidl.idl
+  objidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\basetsd.h
+  basetsd.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\guiddef.h
+  guiddef.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ocidl.idl
+  ocidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oleidl.idl
+  oleidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\servprov.idl
+  servprov.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\urlmon.idl
+  urlmon.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\msxml.idl
+  msxml.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\oaidl.acf
+  oaidl.acf
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\ocidl.acf
+  ocidl.acf
+  MyForm.cpp
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(1895,15): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2019,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2033,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2046,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2068,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2102,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2115,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2129,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2143,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2157,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2172,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2186,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2200,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2213,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2226,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2240,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2254,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2268,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2282,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2296,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2309,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2322,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2447,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2533,9): warning C4101: 'tax': unreferenced local variable
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(2551,9): warning C4101: 'tax': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(1868): warning C4715: 'cpPoS::MyForm::CostOfItem': not all control paths return a value
+C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\cpPoS\MyForm.h(1881): warning C4700: uninitialized local variable 'tax' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  cpPoS.vcxproj -> C:\Users\Dar Elcomputer\Desktop\New folder (5)\Casher\cpPoS\x64\Debug\cpPoS.exe
